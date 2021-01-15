@@ -1,0 +1,248 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Divyalakshmi M",
+      "jobRole": "Soft"
+    },
+    {
+      "id": "2",
+      "name": "Divya Tejasree",
+      "jobRole": "Software"
+    },
+    {
+      "id": "24",
+      "name": "rithu",
+      "jobRole": "analyst"
+    },
+    {
+      "id": "48",
+      "name": "raji",
+      "jobRole": "analyst"
+    },
+    {
+      "id": "98",
+      "name": "uma",
+      "jobRole": "validation"
+    },
+    {
+      "id": "78",
+      "name": "viji",
+      "jobRole": "murali"
+    },
+    {
+      "id": "108",
+      "name": "sai",
+      "jobRole": "baba"
+    },
+    {
+      "id": "14",
+      "name": "shal",
+      "jobRole": "shalu"
+    }
+  ],
+  "comments": [],
+  "bookname": [
+    {
+      "id": "BK001",
+      "bookname": "Cyber security",
+      "status": "Available"
+    },
+    {
+      "id": "BK002",
+      "bookname": "Information technology",
+      "status": "Available"
+    },
+    {
+      "id": "BK002",
+      "bookname": "Information technology",
+      "status": "Available"
+    },
+    {
+      "id": "BK003",
+      "bookname": "Satellite communication",
+      "status": "Available"
+    },
+    {
+      "id": "BK004",
+      "bookname": "Blockchain for business",
+      "status": "Available"
+    },
+    {
+      "id": "BK005",
+      "bookname": "Digital transformations",
+      "status": "Available"
+    },
+    {
+      "id": "BK006",
+      "bookname": "Cloud computing",
+      "status": "Available"
+    },
+    {
+      "id": "BK007",
+      "bookname": "Artificial intelligence",
+      "status": "Available"
+    },
+    {
+      "id": "BK008",
+      "bookname": "Computing models and algorithms",
+      "status": "Available"
+    },
+    {
+      "id": "BK009",
+      "bookname": "Machine learing",
+      "status": "Available"
+    },
+    {
+      "id": "BK010",
+      "bookname": "Java programming",
+      "status": "Available"
+    }
+  ],
+  "books": [
+    {
+      "id": 10001,
+      "title": "Java Programming",
+      "author": " James Gosling",
+      "available_copies": 1,
+      "issued_to": [
+        "ru"
+      ],
+      "status": "Available"
+    },
+    {
+      "id": 10002,
+      "title": "C++",
+      "author": "Bjarne Stroustrup",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10003,
+      "title": "Machine Learning",
+      "author": "  Robert Frost",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10004,
+      "title": "Cloud Computing",
+      "author": " Erl, Thomas",
+      "available_copies": 1,
+      "issued_to": [
+        "dd",
+        "dd",
+        "dd",
+        "dd",
+        "dd",
+        "dd",
+        "dd"
+      ],
+      "status": "Available"
+    },
+    {
+      "id": 10005,
+      "title": "Big Data",
+      "author": " Phil Simons",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10006,
+      "title": "Cyber Security",
+      "author": " Simon Singh",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10007,
+      "title": "Artificial Intelligence",
+      "author": " Peter Norvig",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10008,
+      "title": "Computer Fundamentals",
+      "author": " Pradeep Kumar Sinha",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10009,
+      "title": "C Programming",
+      "author": " Dennis Ritchie",
+      "available_copies": 1,
+      "issued_to": [
+        "ru"
+      ],
+      "status": "Available"
+    },
+    {
+      "id": 10010,
+      "title": "Python",
+      "author": " Guido van Rossum",
+      "available_copies": 2,
+      "issued_to": [
+        "ru"
+      ],
+      "status": "Available"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "rithuma",
+      "password": "divya"
+    },
+    {
+      "id": "24",
+      "name": "dd",
+      "jobRole": "dldj"
+    },
+    {
+      "id": "78",
+      "name": "ru",
+      "jobRole": "ur"
+    },
+    {
+      "id": "N9Czd2S",
+      "name": "",
+      "jobrole": ""
+    },
+    {
+      "id": "Udnh7h-",
+      "name": "",
+      "jobrole": ""
+    },
+    {
+      "id": "5z_1YNA",
+      "name": "",
+      "jobrole": ""
+    },
+    {
+      "id": "1245",
+      "name": "divya",
+      "jobrole": "lakshmi"
+    },
+    {
+      "id": "1224",
+      "name": "Saidivya",
+      "jobrole": "divy"
+    },
+    {
+      "id": "167",
+      "name": "Nithya",
+      "jobrole": "nithya"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
